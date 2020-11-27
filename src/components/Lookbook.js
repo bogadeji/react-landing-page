@@ -8,7 +8,7 @@ class Lookbook extends React.Component {
 			<div class="lookbook-content">
 				<p>NEW TREND</p>
 				<h1>COLLUSION</h1>
-				<p>"An exclusive selection of this season's trends"</p>
+				<p>An exclusive selection of this season's trends</p>
 				<div>
 					<button>DISCOVER</button>
 					<button>SHOP NOW</button>

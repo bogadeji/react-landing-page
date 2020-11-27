@@ -15,10 +15,10 @@ class Footer extends React.Component {
 					<p class="number">01647470457</p>
 
 					<div id="social-media">
-						<i role="button" tabindex="0" class="material-icons">facebook</i>
-						<i role="button" tabindex="0" class="material-icons">instagram</i>
-						<i class="lni lni-twitter-original"></i>
-						<i role="button" tabindex="0" class="material-icons">linkedin</i>
+						<i role="button" tabindex="0" class="fa fa-facebook"></i>
+						<i role="button" tabindex="0" class="fa fa-instagram"></i>
+						<i role="button" tabindex="0" class="fa fa-twitter"></i>
+						<i role="button" tabindex="0" class="fa fa-linkedin"></i>
 					</div>
 				</div>
 				<div>

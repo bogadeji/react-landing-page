@@ -69,14 +69,15 @@
       margin: auto 0;
       display: flex;
       align-items: center;
-    
       display: flex;
       justify-content: space-between;
       align-items: center;
       text-align: center;
-
       color: #22262A !important;
       padding: 0 150px;
+    }
+    header a:-webkit-any-link {
+      text-decoration: unset;
     }
     nav img {
       display: none;
@@ -102,8 +103,7 @@
       text-decoration: unset;
     }
     a:-webkit-any-link {
-      text-decoration: unset;
-      color: ##22262A !important;
+      color: inherit;
     }
     .nav-icons {
       display: flex;
@@ -391,4 +391,13 @@
     }
     #social-media {
       display: flex;
+    }
+    #social-media i {
+      margin: 0 10px;
+    }
+    #social-media i:last-child {
+      margin-right: unset;
+    }
+    #social-media i:first-child {
+      margin-left: unset;
     }
